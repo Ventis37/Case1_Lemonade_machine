@@ -10,4 +10,4 @@
 
 ## Видео-презентация
 
-[Ссылка на видео-презентацию проекта](https://disk.yandex.ru/d/onrkKbVVk_ngwg/%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%201370.mov)
+[Ссылка на видео-презентацию проекта]((https://rutube.ru/video/33de40d9ffc208264875108a6c1c5910/))
